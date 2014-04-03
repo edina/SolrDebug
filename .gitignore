@@ -1,0 +1,33 @@
+# "temporary" build files
+/target
+
+# logs
+/stacktrace.log
+/test/reports
+/logs
+/*.log
+
+# IDE support files
+/.classpath
+/.launch
+/.project
+/.settings
+/*.launch
+/*.tmproj
+/ivy*
+/eclipse
+/.idea
+/*.iml
+/*.db
+
+# project release file
+/*.war
+
+# plugin release file
+/*.zip
+
+# OS-specific files
+/.DS_Store
+
+# Serialised files
+*.ser

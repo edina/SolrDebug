@@ -1,0 +1,30 @@
+div.debug {
+    padding: 15px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 4px;
+    border-color: #ddd;
+    margin-bottom: 20px;
+}
+
+div.debug div {
+    padding: 15px;
+}
+
+div.bordered {
+    padding: 15px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 4px;
+    border-color: #ddd;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+div.bordered h3 {
+    margin-top: 0;
+}
+
+dt.even {
+    background-color: #f9f9f9;
+}
